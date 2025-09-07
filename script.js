@@ -132,7 +132,7 @@ function highlightKH(){
 
 // === Smooth Background Slideshow ===
 const bgImages = [
-  'https://www.timeschronicle.ca/wp-content/uploads/2020/07/horse18_w.jpg',
+  'https://t3.ftcdn.net/jpg/09/19/37/44/360_F_919374469_RCXxuihQDxemJfsGLStFI1RrUtAWyOwM.jpg',
   'https://www.racingqueensland.com.au/kenticoimage.axd/media/e7bcc609-04c1-43a0-8880-1c293fd24f07/c3195b24-d3fb-402b-af62-0ae49f05f28e.jpg?format=jpg&width=1370&height=514&quality=90&rmode=crop&d=094323&hmac=71380ead0ca57bbb740521bc2ade52dad61cd368cd20399f8a901826092373f5',
   'https://www.thecreek.com.au/wp-content/uploads/2023/12/finals.jpg',
   'https://tscom.imgix.net/RAINBOWROOM_KENTUCKIANA_0922_ba503f8364.false?auto=compress,format',
@@ -154,4 +154,5 @@ setInterval(() => {
     current = next;
   }, 2000);
 }, 5000);
+
 
